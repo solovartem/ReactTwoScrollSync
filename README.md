@@ -1,2 +1,2 @@
-# ReactTwoScrollSync
+# ImageScrollTest
 Created with CodeSandbox
